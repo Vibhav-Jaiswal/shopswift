@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopswift/static/css/main.bead49e5.css",
+    "main.js": "/shopswift/static/js/main.e8072fb6.js",
+    "index.html": "/shopswift/index.html",
+    "main.bead49e5.css.map": "/shopswift/static/css/main.bead49e5.css.map",
+    "main.e8072fb6.js.map": "/shopswift/static/js/main.e8072fb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bead49e5.css",
+    "static/js/main.e8072fb6.js"
+  ]
+}
